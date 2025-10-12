@@ -1,0 +1,7 @@
+D:\Lập trình mạng\2312647_LeAnhKhoa_CTK47A_Lab4\Bai3_Client\bin\Debug\Bai3_Client.exe.config
+D:\Lập trình mạng\2312647_LeAnhKhoa_CTK47A_Lab4\Bai3_Client\bin\Debug\Bai3_Client.exe
+D:\Lập trình mạng\2312647_LeAnhKhoa_CTK47A_Lab4\Bai3_Client\bin\Debug\Bai3_Client.pdb
+D:\Lập trình mạng\2312647_LeAnhKhoa_CTK47A_Lab4\Bai3_Client\obj\Debug\Bai3_Client.csproj.AssemblyReference.cache
+D:\Lập trình mạng\2312647_LeAnhKhoa_CTK47A_Lab4\Bai3_Client\obj\Debug\Bai3_Client.csproj.CoreCompileInputs.cache
+D:\Lập trình mạng\2312647_LeAnhKhoa_CTK47A_Lab4\Bai3_Client\obj\Debug\Bai3_Client.exe
+D:\Lập trình mạng\2312647_LeAnhKhoa_CTK47A_Lab4\Bai3_Client\obj\Debug\Bai3_Client.pdb

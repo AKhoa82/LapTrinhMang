@@ -1,0 +1,7 @@
+C:\Users\CICT\source\repos\2312647_LeAnhKhoa_CTK47A_Lab4\UDPServer\bin\Debug\UDPServer.exe.config
+C:\Users\CICT\source\repos\2312647_LeAnhKhoa_CTK47A_Lab4\UDPServer\bin\Debug\UDPServer.exe
+C:\Users\CICT\source\repos\2312647_LeAnhKhoa_CTK47A_Lab4\UDPServer\bin\Debug\UDPServer.pdb
+C:\Users\CICT\source\repos\2312647_LeAnhKhoa_CTK47A_Lab4\UDPServer\obj\Debug\UDPServer.csprojAssemblyReference.cache
+C:\Users\CICT\source\repos\2312647_LeAnhKhoa_CTK47A_Lab4\UDPServer\obj\Debug\UDPServer.csproj.CoreCompileInputs.cache
+C:\Users\CICT\source\repos\2312647_LeAnhKhoa_CTK47A_Lab4\UDPServer\obj\Debug\UDPServer.exe
+C:\Users\CICT\source\repos\2312647_LeAnhKhoa_CTK47A_Lab4\UDPServer\obj\Debug\UDPServer.pdb

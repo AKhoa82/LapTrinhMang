@@ -1,0 +1,8 @@
+D:\Lập trình mạng\2312647_LeAnhKhoa_CTK47A_Lab3\HD6\bin\Debug\HD6.exe.config
+D:\Lập trình mạng\2312647_LeAnhKhoa_CTK47A_Lab3\HD6\bin\Debug\HD6.exe
+D:\Lập trình mạng\2312647_LeAnhKhoa_CTK47A_Lab3\HD6\bin\Debug\HD6.pdb
+D:\Lập trình mạng\2312647_LeAnhKhoa_CTK47A_Lab3\HD6\obj\Debug\HD6.csproj.AssemblyReference.cache
+D:\Lập trình mạng\2312647_LeAnhKhoa_CTK47A_Lab3\HD6\obj\Debug\HD6.csproj.CoreCompileInputs.cache
+D:\Lập trình mạng\2312647_LeAnhKhoa_CTK47A_Lab3\HD6\obj\Debug\HD6.exe
+D:\Lập trình mạng\2312647_LeAnhKhoa_CTK47A_Lab3\HD6\obj\Debug\HD6.pdb
+D:\Lập trình mạng\2312647_LeAnhKhoa_CTK47A_Lab3\HD6\obj\Debug\HD6.exe.config

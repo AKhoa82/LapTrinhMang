@@ -1,0 +1,8 @@
+D:\Lập trình mạng\2312647_LeAnhKhoa_CTK47A_Lab4\Bai2_Server\bin\Debug\Bai2_Server.exe.config
+D:\Lập trình mạng\2312647_LeAnhKhoa_CTK47A_Lab4\Bai2_Server\bin\Debug\Bai2_Server.exe
+D:\Lập trình mạng\2312647_LeAnhKhoa_CTK47A_Lab4\Bai2_Server\bin\Debug\Bai2_Server.pdb
+D:\Lập trình mạng\2312647_LeAnhKhoa_CTK47A_Lab4\Bai2_Server\obj\Debug\Bai2_Server.csproj.AssemblyReference.cache
+D:\Lập trình mạng\2312647_LeAnhKhoa_CTK47A_Lab4\Bai2_Server\obj\Debug\Bai2_Server.csproj.CoreCompileInputs.cache
+D:\Lập trình mạng\2312647_LeAnhKhoa_CTK47A_Lab4\Bai2_Server\obj\Debug\Bai2_Server.exe
+D:\Lập trình mạng\2312647_LeAnhKhoa_CTK47A_Lab4\Bai2_Server\obj\Debug\Bai2_Server.pdb
+D:\Lập trình mạng\2312647_LeAnhKhoa_CTK47A_Lab4\Bai2_Server\obj\Debug\Bai2_Server.exe.config

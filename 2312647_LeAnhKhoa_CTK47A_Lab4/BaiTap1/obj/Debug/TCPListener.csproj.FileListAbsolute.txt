@@ -1,0 +1,7 @@
+C:\Users\CICT\source\repos\2312647_LeAnhKhoa_CTK47A_Lab4\BaiTap1\bin\Debug\BaiTap1.exe.config
+C:\Users\CICT\source\repos\2312647_LeAnhKhoa_CTK47A_Lab4\BaiTap1\bin\Debug\BaiTap1.exe
+C:\Users\CICT\source\repos\2312647_LeAnhKhoa_CTK47A_Lab4\BaiTap1\bin\Debug\BaiTap1.pdb
+C:\Users\CICT\source\repos\2312647_LeAnhKhoa_CTK47A_Lab4\BaiTap1\obj\Debug\TCPListener.csprojAssemblyReference.cache
+C:\Users\CICT\source\repos\2312647_LeAnhKhoa_CTK47A_Lab4\BaiTap1\obj\Debug\TCPListener.csproj.CoreCompileInputs.cache
+C:\Users\CICT\source\repos\2312647_LeAnhKhoa_CTK47A_Lab4\BaiTap1\obj\Debug\BaiTap1.exe
+C:\Users\CICT\source\repos\2312647_LeAnhKhoa_CTK47A_Lab4\BaiTap1\obj\Debug\BaiTap1.pdb

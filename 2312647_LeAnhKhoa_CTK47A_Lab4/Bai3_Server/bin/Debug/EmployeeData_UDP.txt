@@ -1,0 +1,12 @@
+EmployeeID: 1
+LastName: Nguyen
+FirstName: Van A
+YearsService: 2
+Salary: 35000000
+----------------------------
+EmployeeID: 2
+LastName: Tran
+FirstName: Thi B
+YearsService: 8
+Salary: 12000000
+----------------------------

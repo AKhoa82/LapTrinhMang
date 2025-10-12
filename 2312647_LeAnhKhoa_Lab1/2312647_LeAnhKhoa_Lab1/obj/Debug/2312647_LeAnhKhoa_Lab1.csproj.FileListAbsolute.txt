@@ -1,0 +1,8 @@
+C:\Users\CICT\source\repos\2312647_LeAnhKhoa_Lab1\2312647_LeAnhKhoa_Lab1\bin\Debug\2312647_LeAnhKhoa_Lab1.exe.config
+C:\Users\CICT\source\repos\2312647_LeAnhKhoa_Lab1\2312647_LeAnhKhoa_Lab1\bin\Debug\2312647_LeAnhKhoa_Lab1.exe
+C:\Users\CICT\source\repos\2312647_LeAnhKhoa_Lab1\2312647_LeAnhKhoa_Lab1\bin\Debug\2312647_LeAnhKhoa_Lab1.pdb
+C:\Users\CICT\source\repos\2312647_LeAnhKhoa_Lab1\2312647_LeAnhKhoa_Lab1\obj\Debug\2312647_LeAnhKhoa_Lab1.csproj.AssemblyReference.cache
+C:\Users\CICT\source\repos\2312647_LeAnhKhoa_Lab1\2312647_LeAnhKhoa_Lab1\obj\Debug\2312647_LeAnhKhoa_Lab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\CICT\source\repos\2312647_LeAnhKhoa_Lab1\2312647_LeAnhKhoa_Lab1\obj\Debug\2312647_LeAnhKhoa_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\CICT\source\repos\2312647_LeAnhKhoa_Lab1\2312647_LeAnhKhoa_Lab1\obj\Debug\2312647_LeAnhKhoa_Lab1.exe
+C:\Users\CICT\source\repos\2312647_LeAnhKhoa_Lab1\2312647_LeAnhKhoa_Lab1\obj\Debug\2312647_LeAnhKhoa_Lab1.pdb
